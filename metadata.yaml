@@ -1,11 +1,16 @@
 _repo: Lightning-Conductors-Their-History-Nature-and-Mode-of-Application_54576
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54576-h/images/cover.jpg
 creator:
   author:
     agent_name: Anderson, Richard
     gutenberg_agent_id: '47939'
     url: http://www.gutenberg.org/2009/agents/47939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54576#Lightning-Conductors-Their-History-Nature-and-Mode-of-Application
 gutenberg_issued: '2017-04-19'
 gutenberg_type: Text
 identifiers:
